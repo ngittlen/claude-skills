@@ -92,6 +92,10 @@ As a <persona>, I want <capability>, so that <benefit>.
 **Open questions:** <bulleted, if any>
 ```
 
+## Propagation test marker
+
+PROPAGATION_TEST_V2 — this line was added to confirm edits reach every VM.
+
 ## Quality bar
 
 - No epic has only one story — if it does, it is a story, not an epic.
