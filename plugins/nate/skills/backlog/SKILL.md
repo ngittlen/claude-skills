@@ -94,7 +94,7 @@ As a <persona>, I want <capability>, so that <benefit>.
 
 ## Propagation test marker
 
-PROPAGATION_TEST_V2 — this line was added to confirm edits reach every VM.
+PROPAGATION_TEST_V3_NOBUMP — this line was added to confirm edits reach every VM.
 
 ## Quality bar
 
