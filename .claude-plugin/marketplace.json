@@ -1,0 +1,14 @@
+{
+  "name": "claude-skills",
+  "owner": { "name": "Nate Gittlen" },
+  "metadata": {
+    "description": "Nate's shared Claude Code skills, installable on any machine."
+  },
+  "plugins": [
+    {
+      "name": "nate",
+      "source": "./plugins/nate",
+      "description": "Personal reusable skills (backlog planning, and more over time)."
+    }
+  ]
+}
