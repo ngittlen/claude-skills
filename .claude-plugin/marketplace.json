@@ -8,7 +8,7 @@
     {
       "name": "nate",
       "source": "./plugins/nate",
-      "description": "Personal reusable skills (backlog planning, and more over time)."
+      "description": "Personal reusable skills: story-backlog and story-revision, and more over time."
     }
   ]
 }

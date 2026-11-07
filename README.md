@@ -8,8 +8,12 @@ every machine without copying files around.
 
 - **Marketplace:** `.claude-plugin/marketplace.json` — lists the plugins below.
 - **Plugin `nate`:** `plugins/nate/` — personal skills.
-  - **`backlog`** — turn a brief/context into a backlog of epics → user stories
-    with acceptance criteria. Invoke with `/nate:backlog`.
+  - **`story-backlog`** — go from raw source materials (budgets, requirement
+    docs, wishlists, designs) to a coherent, code-verified story backlog in
+    per-epic markdown files. Invoke with `/nate:story-backlog`.
+  - **`story-revision`** — revise an existing backlog as requirements drift, with
+    surgical edits that preserve story numbering and cross-references. Invoke with
+    `/nate:story-revision`.
 
 ## Use it on a machine
 
